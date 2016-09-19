@@ -23,7 +23,7 @@ Import or require Observer and Subject classes and run this demo code:
 
 ### How to use (demo)
 
-Import or require Observer and Subject classes and run this demo code:
+Import or require Component, DecoratorA and DecoratorB classes and run this demo code:
 
 ```
     function decoratorInit() {
